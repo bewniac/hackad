@@ -1,0 +1,9 @@
+# Site settings
+title: hackad
+author:
+  name: Bös
+  email: nej@hackad.nu
+description: "Mmmm"
+
+# Build settings
+remote_theme:  just-the-docs/just-the-docs 
