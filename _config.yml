@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
+title:hackad blog
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Böset
+  email: a@hackad.nu
+description: "Computer security stuff"
 
 remote_theme: just-the-docs/just-the-docs # for github-metadata
 
